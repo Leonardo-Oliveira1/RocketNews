@@ -1,3 +1,5 @@
+![banner](banner.svg)
+
 <h1 align="center">RocketNews - Rocketseat 👩‍💻🚀</h1>
 
 
