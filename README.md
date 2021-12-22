@@ -6,7 +6,7 @@
 ### ⚠ About 
 
 <p>This project was developed using HTML, CSS and JavaScript based on the challenge <strong>"RocketNews"</strong> by Rocketseat. Besides, the project design was completely based on planning.</p>
-<p>The purpose of creating this project is to practice the basic and necessary tools for building a responsive website: <strong>HTML</strong>,<strong>CSS</strong> (and a little bit of <strong>Javascript</strong>)!</p>
+<p>The purpose of creating this project is to practice the basic and necessary tools for building a responsive website: <strong>HTML</strong>, <strong>CSS</strong> (and a little bit of <strong>Javascript</strong>)!</p>
 
 <br>
 
