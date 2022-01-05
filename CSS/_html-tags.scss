@@ -1,0 +1,86 @@
+*{
+    margin: 0;
+}
+
+html{
+    font-size: 62.5%;
+    background-color: $bg-color;
+    background-image: url(IMG/read_news.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 13vw 0vh;
+}
+
+body{
+    display: flex;
+    height: 100vh;
+}
+
+h1{
+    font-family: $secondary-family;
+    font-size: 2.4rem;
+    font-weight: 700;
+    
+    color: #04D361;
+}
+
+h2{
+    font-family: $primary-family;
+    font-size: 1.4rem;
+    font-weight: 500;
+    line-height: 20px;
+    
+    color: #E1E1E6;
+}
+
+h3{
+    font-family: $primary-family;
+    font-size: 1.4rem;
+    font-weight: 700;
+    
+    color: #A8A8A8;
+}
+
+a{
+    font-family: $primary-family;
+    font-size: 1.4rem;
+    font-weight: 700;
+
+    color: $purple;
+    text-decoration: none;
+}
+
+input[type=email] {
+    width: 92%;
+    height: 48px;
+
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: none;
+    outline: none;
+    font-family: $secondary-family;
+    font-size: 1.3rem;
+}
+
+button{
+    height: 48px;
+    width: 48px;
+
+    position: relative;
+    left: -4px;
+    top: 6px;
+
+	background-color:$purple;
+    cursor: pointer;
+    border: none;
+    
+    &:hover{
+        background-color: #967DE0;
+    }
+}
+
+#bold{
+    font-weight: 700;
+    line-height: 20px;
+}

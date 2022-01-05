@@ -1,0 +1,30 @@
+.container{
+    width: 640px;
+    height: 98%;
+    padding: 30px;
+    padding-top: 50px;
+    background-color: $bg-color;
+}
+
+#logo{
+    width: 389px;
+}
+
+#text{
+    padding-top: 92px;
+}
+
+.email-div{
+    padding-top: 50px;
+}
+
+#example{
+    display: flex;
+    align-items: center;
+    padding-top: 30px;
+    width: 360px;
+    
+    &:hover{
+        color: #9878E2;
+    }
+}
